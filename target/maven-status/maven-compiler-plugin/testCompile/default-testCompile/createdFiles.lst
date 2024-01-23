@@ -1,0 +1,10 @@
+HelperMethods\GetUniqueValue.class
+Pages\PageFactory.class
+HelperMethods\FetchDataFromExcel.class
+Enums\WebElementEnums\RegisterPageEnums.class
+Enums\WebElementEnums\HomePageEnums.class
+Pages\BaseClass.class
+Pages\RegisterPage.class
+TestCases\VerifyUserIsAbleToRegister.class
+HelperMethods\FetchPropertiesFileData.class
+Pages\HomePage.class

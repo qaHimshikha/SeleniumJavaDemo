@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression TestCases Suite">
+    <listeners>
+        <listener class-name="ExtentReporter.Listeners"/>
+    </listeners>
+
+    <test name="Verify user is able to register">
+        <classes>
+            <class name="TestCases.VerifyUserIsAbleToRegister"/>
+        </classes>
+    </test>
+</suite>
